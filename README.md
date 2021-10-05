@@ -6,7 +6,7 @@ Consequently I've been a NEET for a damn long time, surviving on savings, welfar
 
 As for what actually pertains to github (code), I spend most of my waking hours working on [7 Days To Die](https://7daystodie.com/) (7DTD) mods, and Discord bots. I enjoy writing 7dtd mods a lot more than I like releasing and maintaining them, so even though I've written over a dozen small mods, I've only published one to [NexusMods](https://www.nexusmods.com/). As for contact details, I'm unsure about dropping an email here, but you can find me lurking on several gaming, modding, and mental health discord servers if you snoop around. You can easily guess one of those servers, but I'm gonna retain some mystery wrt the others. 😇
 
-What with 7dtd being a unity game, I mostly work in **.NET C#**, and **Node.js** or **TypeScript** for the discord apps/bots. As for collaborative dev work, I haven't done any of it since my brief time in the web development industry. ¯\\_(ツ)_/¯
+What with 7dtd being a unity game, I mostly work in **.NET C#**, and **Node.js** or **TypeScript** for the discord apps/bots. As for collaborative dev work, I haven't done any of it since my brief time in the web development industry. ¯\\\_(ツ)\_/¯
 
 Welp.. That'll do.
 
